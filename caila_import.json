@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "supervakanser-138621-SfP",
-    "name" : "supervakanser-138621-SfP",
+    "id" : "sberautotest-225571-COP",
+    "name" : "sberautotest-225571-COP",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -10,7 +10,7 @@
     "classificationAlgorithm" : "sts",
     "timezone" : "UTC",
     "extendedSettings" : {
-      "tokenizerEngine" : "mystem"
+      "tokenizerEngine" : "default"
     },
     "shared" : false
   },
